@@ -1,0 +1,17 @@
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\obj\Debug\KSU.CIS300.Checkers.Tests.csprojAssemblyReference.cache
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\obj\Debug\KSU.CIS300.Checkers.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\KSU.CIS300.Checkers.Tests.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\KSU.CIS300.Checkers.Tests.pdb
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\KSU.CIS300.Checkers.exe
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\KSU.CIS300.Checkers.pdb
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\KSU.CIS300.Checkers.exe.config
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\obj\Debug\KSU.CIS300.Checkers.Tests.csproj.CopyComplete
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\obj\Debug\KSU.CIS300.Checkers.Tests.dll
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers.Tests\obj\Debug\KSU.CIS300.Checkers.Tests.pdb

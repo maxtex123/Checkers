@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.Checkers", "KSU.CIS300.Checkers\KSU.CIS300.Checkers.csproj", "{BED2376F-7E8F-4907-9376-1A175BAEB315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.Checkers.Tests", "KSU.CIS300.Checkers.Tests\KSU.CIS300.Checkers.Tests.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED2376F-7E8F-4907-9376-1A175BAEB315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED2376F-7E8F-4907-9376-1A175BAEB315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED2376F-7E8F-4907-9376-1A175BAEB315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED2376F-7E8F-4907-9376-1A175BAEB315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF49F5AA-E7EB-423E-A0EF-CCB1B640FDD8}
+	EndGlobalSection
+EndGlobal

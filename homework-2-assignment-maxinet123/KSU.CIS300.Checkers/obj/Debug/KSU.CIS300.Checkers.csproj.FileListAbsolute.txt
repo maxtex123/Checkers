@@ -1,0 +1,9 @@
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.csprojAssemblyReference.cache
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.Properties.Resources.resources
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.UserInterface.resources
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.csproj.GenerateResource.cache
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\bin\Debug\KSU.CIS300.Checkers.exe.config
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\bin\Debug\KSU.CIS300.Checkers.exe
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\bin\Debug\KSU.CIS300.Checkers.pdb
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.exe
+C:\Users\Maxine\Source\Repos\homework-2-assignment-maxinet123\KSU.CIS300.Checkers\obj\Debug\KSU.CIS300.Checkers.pdb
